@@ -1,4 +1,4 @@
-# Placement Prediction and Analysis of Technical Careers for Women
+# Placement Prediction and Analysis of Technical Careers for Women 👩🏽‍💻
 
 This project is trained on a real world placement and internship data of a government run university. 
 
